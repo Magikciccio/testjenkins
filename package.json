@@ -1,0 +1,16 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "\"Cypress project for beginners\" ",
+  "main": "index.js",
+  "scripts": {
+    "test": "celeste",
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^11.2.0"
+  }
+}
